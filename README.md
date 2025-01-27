@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Easybank Landing Page Solution](https://github.com/Kayodejay/Easybank-Landing-Page)
+- Live Site URL: [Easybank Landing Page](https://kayodejay.github.io/Easybank-Landing-Page/)
 
 ## My process
 
@@ -54,7 +54,7 @@ While working on this project, I was reminded of how little javascript I know, I
 
 ### Useful resources
 
-- [8hour Basic JavaScript Course](https://youtu.be/EfAI9bwzVZk?si=36A6_7FEY37XY8Rq) - This helped me understand basic JS concepts. I really liked this pattern and will use it going forward.
+- [8hour Basic JavaScript Course](https://youtu.be/EfAl9bwzVZk?si=36A6_7FEY37XY8Rq) - This helped me understand basic JS concepts. I really liked this pattern and will use it going forward.
 
 ## Author
 
